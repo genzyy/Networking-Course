@@ -1,0 +1,43 @@
+<div align=center>
+  <h1>Structure Of Network</h1>
+</div>
+
+
+# Structure of Network
+
+- In this section we will learn the models that are used in today's networking technology and their layers.
+
+
+## OSI Model
+
+- It stands for Open Systems Interconnection Modal.
+- There are 7 layers in this model:
+
+                - Application Layer
+                - Presentation Layer
+                - Session Layer
+                - Transport Layer
+                - Network Layer
+                - Data Link Layer
+                - Physical Layer
+
+
+### Application Layer
+
+- It is implemented in the application itself.
+- This is the only layer the user directly interacts with.
+- Some protocols used are HTTP, FTP, etc.
+- The application layer will give data to next layer which is Presentation Layer.
+
+
+### Presentation Layer
+
+- This layer handles encryption, encoding, translation, etc of the data received by the application layer.
+- This layer assumes that the next layer which is Session Layer will convert the data by itself for further processing.
+- SSL (Secure Socket Layer) is used for encryption and encoding in this layer.
+
+
+### Session Layer
+
+- This layer focuses on setting up the connection and managing it and then enabling processing of data followed by termination of the connected sessions.
+- This layer assumes that the next layer which is transport layer will send the data once the connection is established.
