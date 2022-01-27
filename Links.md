@@ -2,3 +2,4 @@
 - https://blog.udemy.com/peer-to-peer-networking/
 - https://support.mozilla.org/en-US/kb/difference-between-imap-and-pop3
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#information_responses
+- https://avinetworks.com/glossary/network-address-translation/
