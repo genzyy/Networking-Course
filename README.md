@@ -44,7 +44,7 @@
 - IP (Internet Protocol)
 - Packets
 - IPv4 vs IPv6
-- Middle Boxes
-- NAT (Network Address Translation)
-- TCP (Data Link Layer)
+- [ Middle Boxes ] (./Middle-Boxes.md)
+- [ NAT (Network Address Translation) ] (./NAT.md)
+- [ TCP (Data Link Layer) ] (./Data-Link-Layer.md)
 - Done!
